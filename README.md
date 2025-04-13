@@ -1,3 +1,5 @@
+# REG NO: 212224230028 NAME: ASWIN L
+
 # Ex.No:1a  			Study of Socket Programming
 
 ## Aim: 
